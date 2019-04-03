@@ -1,0 +1,4 @@
+User-agent：*
+Disallow：/favicon.ico
+
+Sitemap：https：//jade1115.github.io/sitemap.xml
